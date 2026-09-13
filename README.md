@@ -5,6 +5,6 @@ I am a junior undergraduate in Computer Engineering at the ZJUI Institute (Class
 My research interests include Human-Computer Interaction (HCI), Human-Agent Collaboration, Multi-Agent Systems, and Visualization. I am currently working in the VAI Lab at ZJU, and I am open to new research opportunities! 
 
 ## Contact
-- Personal Homepage: [KaylLiu](https://kaylliu.github.io/)
+- Personal Homepage: [haozhongliu.github.io](https://haozhongliu.github.io))
 - Email: [hl123@illinois.edu](mailto:hl123@illinois.edu)
 
